@@ -1,4 +1,6 @@
 ## 基于ant Design封装的搜索组件 
+> 适用于后台系统
+
 ![SearchFrom](https://img.xuewuzhijing.top/admin/SearchFrom.png)
  
  ##### 参数：
